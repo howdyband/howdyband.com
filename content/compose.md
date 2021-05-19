@@ -1,8 +1,8 @@
 # Music Production
 Music Production is a series of three, one-week courses for high school students.
-Students need not have musical talent, only bravery. The goal is to experience the process more than the production of excellence. 
+Students need not have musical talent, only bravery. Each course stands independently from the others, as long as the listed prerequisites are met. The goal is to experience the process more than the production of excellence. 
 Courses are taught by a state endorsed music teacher.
-Each course stands independently from the others, as long as the listed prerequisites are met.                                                      
+                                                      
 Each online session is 1.5 hours long, totaling 7.5 hours of instruction per week. Additionally, students should allow at least that much time for assignments done outside of class meetings.
 Thus, with 22.5 hours of online instruction and approximately 22 hours of homework, a 0.5 credit is available for successful completion of the entire series, in the category of “Fine and Applied Arts”.
 To complete the assignments, students are expected to have a smart phone, laptop, internet connection, and any musical instrument.
